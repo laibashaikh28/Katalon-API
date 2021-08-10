@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC ForAPIChaining</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d0904ad-cac5-4e87-9c44-dd3b4f1279f4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>719e2a7c-8c57-40a9-a857-a978f81656a8</id>
+      <masked>false</masked>
+      <name>UserNameLocal</name>
+   </variable>
+</TestCaseEntity>
